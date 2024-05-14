@@ -1,0 +1,1 @@
+# Sistema_ecuaciones_por_determinantes
